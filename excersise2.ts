@@ -1,0 +1,1 @@
+type stringorBoolean = string | boolean;
